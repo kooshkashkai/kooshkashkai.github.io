@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-![Jigsaw 1!](http://www.ethanandtoby.com/images/IMG_0775.jpg)
+![Jigsaw 1!](http://www.ethanandtoby.com/images/dino_copy.png)
 
 ![Jigsaw 1!](http://www.ethanandtoby.com/images/ET4.jpeg)
 
