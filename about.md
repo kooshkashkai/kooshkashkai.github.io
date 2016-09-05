@@ -10,7 +10,7 @@ Thanks for taking the time to check out our little website! We thought it would 
 
 ![This is us!](http://www.ethanandtoby.com/images/ET2.jpg)
 
-![This is us!](http://www.ethanandtoby.com/images/ET3.jpg)
+![This is us!](http://www.ethanandtoby.com/images/ET3.jpeg)
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
