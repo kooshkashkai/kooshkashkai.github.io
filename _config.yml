@@ -6,12 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
+title: Ethan & Toby's Epic Toy Sale
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Thanks for taking the time to check out our little website! We thought it would be a
+  nice idea to sell off some of the toys & games that we no longer play with and donate 
+  some of the proceeds to charity.  Have a look at the items below and if anything is 
+  of interest, please send us an email to find out more!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
