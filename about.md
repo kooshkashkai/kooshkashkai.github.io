@@ -6,7 +6,7 @@ permalink: /about/
 
 Thanks for taking the time to check out our little website! We thought it would be a nice idea to sell off some of the toys & games that we no longer play with and donate some of the proceeds to charity. Have a look at the items below and if anything is of interest, please send us an email to find out more!
 
-![My helpful screenshot](http://www.kooshkashkai/kooshkashkai.github.io/images/ET.jpg)
+![This is us!](http://www.ethanandtoby.com/images/ET.jpg)
 
 ![My helpful screenshot](https://www.dropbox.com/s/st7cgux83gbv8va/IMG_0774.JPG)
 
