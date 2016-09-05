@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ethan & Toby's Epic Toy Sale
+title: About us...
 permalink: /about/
 ---
 
