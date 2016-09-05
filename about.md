@@ -8,7 +8,7 @@ Thanks for taking the time to check out our little website! We thought it would 
 
 ![This is us!](http://www.ethanandtoby.com/images/ET4.jpeg)
 
-![This is us!](http://www.ethanandtoby.com/images/IMG_0775.jpg)
+![This is us!](http://www.ethanandtoby.com/images/IMG_0775.jpeg)
 
 ![This is us!](http://www.ethanandtoby.com/images/ET3.jpeg)
 
