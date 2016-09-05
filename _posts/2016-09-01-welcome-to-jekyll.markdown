@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Our Toy Collection"
+title:  "Jigsaws & Puzzles"
 date:   2016-09-01 07:37:57 -0400
 categories: jekyll update
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+![Jigsaw 1] (http://www.ethanandtoby.com/images/IMG_0774.JPG)
 
 http://www.east2eden.co.uk/uploads/images/products/home/toys/2945.jpg
 
