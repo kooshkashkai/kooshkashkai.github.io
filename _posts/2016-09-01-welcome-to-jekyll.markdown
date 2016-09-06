@@ -4,24 +4,24 @@ title:  "Jigsaws & Puzzles"
 date:   2016-09-01 07:37:57 -0400
 categories: jekyll update
 ---
-1. Dinosaur Matching Game
+1 Dinosaur Matching Game
 
 ![Jigsaw 1](http://www.ethanandtoby.com/images/dino_copy.png)
 
 
-2.  Yo! Ho! Ho!
+2  Yo! Ho! Ho!
 
-![Jigsaw 1](http://www.ethanandtoby.com/images/IMG_0775.JPG)
-
-
-3.  Ice Age Lenticular Puzzle
-
-![Jigsaw 1](http://www.ethanandtoby.com/images/IMG_0777.JPG)
+![Jigsaw 2](http://www.ethanandtoby.com/images/IMG_0775.JPG)
 
 
-4.  Octonauts Jigsaw
+3  Ice Age Lenticular Puzzle
 
-![Jigsaw 1](http://www.ethanandtoby.com/images/IMG_0780.JPG)
+![Jigsaw 3](http://www.ethanandtoby.com/images/IMG_0777.JPG)
+
+
+4  Octonauts Jigsaw
+
+![Jigsaw 4](http://www.ethanandtoby.com/images/IMG_0780.JPG)
 
 
 
