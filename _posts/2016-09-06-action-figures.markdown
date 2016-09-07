@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Action Figures"
-date:   2016-09-01 07:37:57 -0400
 categories: jekyll update
 ---
 1 Dinosaur Matching Game
